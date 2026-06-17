@@ -2,5 +2,8 @@ title: "Kernel Dev Journey"
 description: "Diário de estudos em desenvolvimento de kernel Linux"
 theme: minima
 
+baseurl: "/micael0208_MAC0470.github.io"
+url: "https://micael0208.github.io"
+
 author:
   name: "Micael Prado"
